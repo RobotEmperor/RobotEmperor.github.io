@@ -14,19 +14,19 @@ News
 
 <div style="border: 2px solid #b8cc00ff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0; border-radius:6px;">
 
-  <strong style="color:#CC0000;">[June 24, 2025]</strong> I am honored to give a presentation titled, "Safety-Ensured Modern Applications under Model Uncertainty" in the workshop, "Safe Control and Learning in Autonomous Systems", [Link](https://ecc25.csiefoundation.am/).
+  <strong style="color:#CC0000;">[June 24, 2025]</strong> I am honored to give a presentation titled, <em>"Safety-Ensured Modern Applications under Model Uncertainty"</em> in the workshop, <em>"Safe Control and Learning in Autonomous Systems"</em>, <a href="https://ecc25.csiefoundation.am/">Link</a>.
   
-  <span style="display:block; margin-top:0.6em;">
-  Three papers are accepted and presented in ECC 2025!
-  </span>
+  <div style="margin-top:0.6em;">
+    Three papers are accepted and presented in ECC 2025!
+  </div>
 
-  <p style="margin-bottom:1.5em;"></p>
+  <p style="margin-bottom:1em;"></p>
   
-  **[June 25, 2025]** "Robust Adaptive Safe Robotic Grasping with Tactile Sensing" byYitaek Kim, Jeeseop Kim, Albert Hao Li, Aaron Ames, Christoffer Sloth, [arXiv](https://arxiv.org/pdf/2411.07833/)
+  <p><strong>[June 25, 2025]</strong> "Robust Adaptive Safe Robotic Grasping with Tactile Sensing" by Yitaek Kim, Jeeseop Kim, Albert Hao Li, Aaron Ames, Christoffer Sloth, <a href="https://arxiv.org/pdf/2411.07833/">arXiv</a></p>
 
-  **[June 25, 2025]** "Minimizing Conservatism in Safety-Critical Control for Input-Delayed Systems Via Adaptive Delay Estimation" by Yitaek Kim, Ersin Das, Jeeseop Kim, Aaron Ames, Joel W. Burdick, Christoffer Sloth, [arXiv](https://arxiv.org/pdf/2411.17277/)
+  <p><strong>[June 25, 2025]</strong> "Minimizing Conservatism in Safety-Critical Control for Input-Delayed Systems Via Adaptive Delay Estimation" by Yitaek Kim, Ersin Das, Jeeseop Kim, Aaron Ames, Joel W. Burdick, Christoffer Sloth, <a href="https://arxiv.org/pdf/2411.17277/">arXiv</a></p>
 
-  **[June 25, 2025]** "Robust Adaptive Time-Varying Control Barrier Function with Application to Robotic Surface Treatment" byYitaek Kim, Christoffer Sloth, [arXiv](https://arxiv.org/pdf/2506.14249/)
+  <p><strong>[June 25, 2025]</strong> "Robust Adaptive Time-Varying Control Barrier Function with Application to Robotic Surface Treatment" by Yitaek Kim, Christoffer Sloth, <a href="https://arxiv.org/pdf/2506.14249/">arXiv</a></p>
 
 </div>
 
