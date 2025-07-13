@@ -1,56 +1,73 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Velkommen til Yitaek's page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently working as a postdoctoral researcher in the [Christtofer group](https://portal.findresearcher.sdu.dk/en/persons/chsl) at [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics). I obtained my Ph.D. from SDU Robotics. During the PhD journey, I was a visiting student researcher at the [Ames' group, AMBER LAB](http://www.bipedalrobotics.com/), California Institute of Technology (Caltech). Currently, my research topic revolves around safety-critical systems and in-hand manipulation with a multi-finger robotic hand (Shadow Robot).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<div style="border: 2px solid #b8cc00ff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0; border-radius:6px;">
+  <strong style="color:#CC0000;">[June 24, 2025]</strong> I am honored to give a presentation titled, "Safety-Ensured Modern Applications under Model Uncertainty" in the workshop, [<strong>Safe Control and Learning in Autonomous Systems</strong>](https://ecc25.csiefoundation.am/).
+  
+  <span style="display:block; margin-top:0.6em;">
+  Three papers are accepted and presented in ECC 2025!
+  <strong style="color:#CC0000;">[June 25, 2025]</strong> "Robust Adaptive Safe Robotic Grasping with Tactile Sensing" byYitaek Kim, Jeeseop Kim, Albert Hao Li, Aaron Ames, Christoffer Sloth. [arXiv](https://arxiv.org/pdf/2411.07833)
+  <strong style="color:#CC0000;">[June 25, 2025]</strong> "Minimizing Conservatism in Safety-Critical Control for Input-Delayed Systems Via Adaptive Delay Estimation" by Yitaek Kim, Ersin Das, Jeeseop Kim, Aaron Ames, Joel W. Burdick, Christoffer Sloth. [arXiv](https://arxiv.org/pdf/2411.17277)
+  <strong style="color:#CC0000;">[June 25, 2025]</strong> "Robust Adaptive Time-Varying Control Barrier Function with Application to Robotic Surface Treatment" byYitaek Kim, Christoffer Sloth. [arXiv](https://arxiv.org/pdf/2506.14249)
+  </span>
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+</div>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<!--  **[July 9, 2025]** Our paper, "AI Space Cortex: An Experimental System for Future Era Space Exploration", was accepted by IEEE Transactions on Field Robotics (TFR). [arXiv](https://arxiv.org/pdf/2507.06574), [IEEE](https://ieeexplore.ieee.org/document/11078376)
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**[July 8, 2025]** We presented our paper at the American Control Conference (ACC) 2025 in Denver, Colorado. [arXiv](https://arxiv.org/pdf/2411.17079)
 
-**Markdown generator**
+**[May 20, 2025]** I presented our paper, "Bayesian Optimal Experimental Design for Robot Kinematic Calibration", at the IEEE International Conference on Robotics and Automation (ICRA) 2025 in Atlanta, USA. [arXiv](https://arxiv.org/pdf/2409.10802)  -->
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+<!-- <div style="border: 1px solid #e66100; background-color: #fff7f0; padding: 0.5em 0.5em; margin: 0.0em 0 0.0em 0; border-radius: 6px;">
+  <strong style="color:#e66100; font-size: 1.05em; text-decoration: underline;">My Takeaways and Observations from ICRA 2025:</strong><br>
+  • Strong presence of walking robots and grippers.<br>
+  • Planning remains a core focus in robotics.<br>
+  • Strong interest in robust safety-critical control methods.<br>
+  • Growing need for robust state estimation methods.<br>
+  <span style="color:#005a9c;">Looking forward to attending with my students next year, stay tuned for updates!</span>
+</div> 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<p style="margin-bottom:1.5em;"></p> -->
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+<!-- **[April 18, 2025]** I presented our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th. [Link](http://terrano.ucsd.edu/jorge/sccw/index.html)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**[April 16, 2025]** I gave a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK.
+
+**[March 2025]** We submitted a paper to the IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
+
+**[February 2025]** We submitted a paper to IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2507.06574)
+
+**[January 2025]** Our paper, "Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots", was accepted by IEEE Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881), [IEEE](https://ieeexplore.ieee.org/document/10872802)
+
+**[December 2024]** I am pleased to share that I have joined the Early Career Advisory Board of [Control Engineering Practice (CEP)](https://www.sciencedirect.com/journal/control-engineering-practice), a distinguished journal for advancing the practical applications of control theory. I look forward to your outstanding submissions.
+
+**[November 2024]** We submitted a paper to the European Control Conference (ECC) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2411.17277)
+
+**[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2411.17079), [code](https://github.com/ersindas/Zero-order-CBFs)
+
+**[September 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2409.10802)
+
+**[July 2024]** Our paper, "Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety", was accepted by IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2024. [arXiv](https://arxiv.org/pdf/2403.08916)
+
+**[May 2024]** I visited [Hatanaka Lab](https://hatanakalab.wixsite.com/website) at the Tokyo Institute of Technology.
+
+**[May 2024]** We presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2024 in Yokohama, Japan. [arXiv](https://arxiv.org/pdf/2310.05865), [video](https://youtu.be/41Jh1GD_9Ok)
+
+**[January 2024]** We submitted a paper to IEEE Transactions on Automatic Control (TAC). <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2401.01881)
+
+**[May 2023]** I presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2023 in London, United Kingdom. [arXiv](https://arxiv.org/pdf/2303.03658)
+
+**[December 2022]** I presented our paper at the IEEE Conference on Decision and Control (CDC) 2022 in Cancun, Mexico. [arXiv](https://arxiv.org/pdf/2201.05758)  -->
