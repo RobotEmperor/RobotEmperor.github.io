@@ -22,55 +22,10 @@ News
 
   <p style="margin-bottom:1em;"></p>
   
-  <p><strong>[June 25, 2025]</strong> "Robust Adaptive Safe Robotic Grasping with Tactile Sensing" by Yitaek Kim, Jeeseop Kim, Albert Hao Li, Aaron Ames, Christoffer Sloth, <a href="https://arxiv.org/pdf/2411.07833/">arXiv</a></p>
+  <p><strong>[June 25, 2025]</strong> "Robust Adaptive Safe Robotic Grasping with Tactile Sensing" by Yitaek Kim, Jeeseop Kim, Albert Hao Li, Aaron Ames, Christoffer Sloth, <a href="https://arxiv.org/pdf/2411.07833">arXiv</a></p>
 
-  <p><strong>[June 25, 2025]</strong> "Minimizing Conservatism in Safety-Critical Control for Input-Delayed Systems Via Adaptive Delay Estimation" by Yitaek Kim, Ersin Das, Jeeseop Kim, Aaron Ames, Joel W. Burdick, Christoffer Sloth, <a href="https://arxiv.org/pdf/2411.17277/">arXiv</a></p>
+  <p><strong>[June 25, 2025]</strong> "Minimizing Conservatism in Safety-Critical Control for Input-Delayed Systems Via Adaptive Delay Estimation" by Yitaek Kim, Ersin Das, Jeeseop Kim, Aaron Ames, Joel W. Burdick, Christoffer Sloth, <a href="https://arxiv.org/pdf/2411.17277">arXiv</a></p>
 
-  <p><strong>[June 25, 2025]</strong> "Robust Adaptive Time-Varying Control Barrier Function with Application to Robotic Surface Treatment" by Yitaek Kim, Christoffer Sloth, <a href="https://arxiv.org/pdf/2506.14249/">arXiv</a></p>
+  <p><strong>[June 25, 2025]</strong> "Robust Adaptive Time-Varying Control Barrier Function with Application to Robotic Surface Treatment" by Yitaek Kim, Christoffer Sloth, <a href="https://arxiv.org/pdf/2506.14249">arXiv</a></p>
 
 </div>
-
-
-**[June 25, 2025]** "Robust Adaptive Safe Robotic Grasping with Tactile Sensing" byYitaek Kim, Jeeseop Kim, Albert Hao Li, Aaron Ames, Christoffer Sloth, [arXiv](https://arxiv.org/pdf/2411.07833/)
-
-
-<!-- <div style="border: 1px solid #e66100; background-color: #fff7f0; padding: 0.5em 0.5em; margin: 0.0em 0 0.0em 0; border-radius: 6px;">
-  <strong style="color:#e66100; font-size: 1.05em; text-decoration: underline;">My Takeaways and Observations from ICRA 2025:</strong><br>
-  • Strong presence of walking robots and grippers.<br>
-  • Planning remains a core focus in robotics.<br>
-  • Strong interest in robust safety-critical control methods.<br>
-  • Growing need for robust state estimation methods.<br>
-  <span style="color:#005a9c;">Looking forward to attending with my students next year, stay tuned for updates!</span>
-</div> 
-
-<p style="margin-bottom:1.5em;"></p> -->
-
-<!-- **[April 18, 2025]** I presented our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th. [Link](http://terrano.ucsd.edu/jorge/sccw/index.html)
-
-**[April 16, 2025]** I gave a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK.
-
-**[March 2025]** We submitted a paper to the IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
-
-**[February 2025]** We submitted a paper to IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2507.06574)
-
-**[January 2025]** Our paper, "Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots", was accepted by IEEE Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881), [IEEE](https://ieeexplore.ieee.org/document/10872802)
-
-**[December 2024]** I am pleased to share that I have joined the Early Career Advisory Board of [Control Engineering Practice (CEP)](https://www.sciencedirect.com/journal/control-engineering-practice), a distinguished journal for advancing the practical applications of control theory. I look forward to your outstanding submissions.
-
-**[November 2024]** We submitted a paper to the European Control Conference (ECC) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2411.17277)
-
-**[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2411.17079), [code](https://github.com/ersindas/Zero-order-CBFs)
-
-**[September 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2409.10802)
-
-**[July 2024]** Our paper, "Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety", was accepted by IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2024. [arXiv](https://arxiv.org/pdf/2403.08916)
-
-**[May 2024]** I visited [Hatanaka Lab](https://hatanakalab.wixsite.com/website) at the Tokyo Institute of Technology.
-
-**[May 2024]** We presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2024 in Yokohama, Japan. [arXiv](https://arxiv.org/pdf/2310.05865), [video](https://youtu.be/41Jh1GD_9Ok)
-
-**[January 2024]** We submitted a paper to IEEE Transactions on Automatic Control (TAC). <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2401.01881)
-
-**[May 2023]** I presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2023 in London, United Kingdom. [arXiv](https://arxiv.org/pdf/2303.03658)
-
-**[December 2022]** I presented our paper at the IEEE Conference on Decision and Control (CDC) 2022 in Cancun, Mexico. [arXiv](https://arxiv.org/pdf/2201.05758)  -->
