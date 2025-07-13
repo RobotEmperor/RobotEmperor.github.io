@@ -31,11 +31,8 @@ News
 </div>
 
 
-<!--  **[July 9, 2025]** Our paper, "AI Space Cortex: An Experimental System for Future Era Space Exploration", was accepted by IEEE Transactions on Field Robotics (TFR). [arXiv](https://arxiv.org/pdf/2507.06574), [IEEE](https://ieeexplore.ieee.org/document/11078376)
+**[June 25, 2025]** "Robust Adaptive Safe Robotic Grasping with Tactile Sensing" byYitaek Kim, Jeeseop Kim, Albert Hao Li, Aaron Ames, Christoffer Sloth, [arXiv](https://arxiv.org/pdf/2411.07833/)
 
-**[July 8, 2025]** We presented our paper at the American Control Conference (ACC) 2025 in Denver, Colorado. [arXiv](https://arxiv.org/pdf/2411.17079)
-
-**[May 20, 2025]** I presented our paper, "Bayesian Optimal Experimental Design for Robot Kinematic Calibration", at the IEEE International Conference on Robotics and Automation (ICRA) 2025 in Atlanta, USA. [arXiv](https://arxiv.org/pdf/2409.10802)  -->
 
 <!-- <div style="border: 1px solid #e66100; background-color: #fff7f0; padding: 0.5em 0.5em; margin: 0.0em 0 0.0em 0; border-radius: 6px;">
   <strong style="color:#e66100; font-size: 1.05em; text-decoration: underline;">My Takeaways and Observations from ICRA 2025:</strong><br>
