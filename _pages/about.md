@@ -28,4 +28,12 @@ News
 
   <p><strong>[June 25, 2025]</strong> "Robust Adaptive Time-Varying Control Barrier Function with Application to Robotic Surface Treatment" by Yitaek Kim, Christoffer Sloth, <a href="https://arxiv.org/pdf/2506.14249">arXiv</a></p>
 
+  <div style="margin-top:0.6em;">
+    Our paper is accepted in IROS 2025!
+  </div>
+
+  <p style="margin-bottom:1em;"></p>
+  
+  <p><strong>[June 16, 2025]</strong> "  Trajectory Optimization for In-Hand Manipulation with Tactile Force Control" by Haegu Lee*, Yitaek Kim, Victor Melbye Staven, Christoffer, <a href="https://arxiv.org/pdf/2503.08222">arXiv</a></p>
+
 </div>
