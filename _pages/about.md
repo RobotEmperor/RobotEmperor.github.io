@@ -14,6 +14,21 @@ News
 
 <div style="border: 2px solid #b8cc00ff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0; border-radius:6px;">
 
+  <div style="margin-top:0.6em;">
+    Two papers are submitted to ICRA 2026.
+  </div>
+
+<strong>[September 15, 2025]</strong>  Frederik Hagelskjær, **Yitaek Kim**, Casper Hewson Rask, Haegu Lee, and Christoffer Sloth, *FT-Pose: In-Hand Object Pose Distribution Estimation with Finger Tip Tactile Sensing*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
+
+<strong>[September 15, 2025]</strong>  Haegu Lee, **Yitaek Kim**, Casper Hewson Rask, and Christoffer Sloth, *Manipulation via Force Distribution at Contact*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
+
+</div>
+
+<div style="margin-top:0.6em;">
+
+
+<!-- <div style="border: 2px solid #fdfdfdff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0; border-radius:6px;">
+
   <strong style="color:#CC0000;">[June 24, 2025]</strong> I am honored to give a presentation titled, <em>"Safety-Ensured Modern Applications under Model Uncertainty"</em> in the workshop, <em>"Safe Control and Learning in Autonomous Systems"</em>, <a href="https://ecc25.csiefoundation.am/">Link</a>.
   
   <div style="margin-top:0.6em;">
@@ -36,4 +51,4 @@ News
   
   <p><strong>[June 16, 2025]</strong> "  Trajectory Optimization for In-Hand Manipulation with Tactile Force Control" by Haegu Lee*, Yitaek Kim, Victor Melbye Staven, Christoffer, <a href="https://arxiv.org/pdf/2503.08222">arXiv</a></p>
 
-</div>
+</div> -->
