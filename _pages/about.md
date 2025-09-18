@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a postdoctoral researcher in the [Christtofer group](https://portal.findresearcher.sdu.dk/en/persons/chsl) at [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics). I received a Ph.D. in robotics from SDU Robotics in 2024. During the PhD journey, I worked with Universal Robots (UR) to solve the challenges of robotic polishing. In addition, I was a visiting student researcher at the [Ames' group, AMBER LAB](http://www.bipedalrobotics.com/), California Institute of Technology (Caltech) in 2023 and worked on safety guaratees in input-delayed systems. Currently, my research topic revolves around safety-critical systems and in-hand manipulation with a multi-finger robotic hand (Shadow Robot).
+I am currently working as a postdoctoral researcher in the [Christtofer group](https://portal.findresearcher.sdu.dk/en/persons/chsl) at [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics). 
+
+I received a Ph.D. in robotics from SDU Robotics in 2024. During the PhD journey, I worked with Universal Robots (UR) to solve the challenges of robotic polishing. In addition, I was a visiting student researcher at the [Ames' group, AMBER LAB](http://www.bipedalrobotics.com/), California Institute of Technology (Caltech) in 2023 and worked on safety guaratees in input-delayed systems. 
+
+Currently, my research topic revolves around safety-critical systems and in-hand manipulation with a multi-finger robotic hand (Shadow Robot).
 
 News
 ======
