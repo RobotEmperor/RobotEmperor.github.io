@@ -18,10 +18,11 @@ News
     Two papers are submitted to ICRA 2026.
   </div>
 
-<strong>[September 15, 2025]</strong>  Frederik Hagelskjær, **Yitaek Kim**, Casper Hewson Rask, Haegu Lee, and Christoffer Sloth, *FT-Pose: In-Hand Object Pose Distribution Estimation with Finger Tip Tactile Sensing*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
+<strong>[September 15, 2025]</strong>  Frederik Hagelskjær, <strong>Yitaek Kim</strong>, Casper Hewson Rask, Haegu Lee, and Christoffer Sloth, <em>FT-Pose: In-Hand Object Pose Distribution Estimation with Finger Tip Tactile Sensing</em>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
 
-<strong>[September 15, 2025]</strong>  Haegu Lee, **Yitaek Kim**, Casper Hewson Rask, and Christoffer Sloth, *Manipulation via Force Distribution at Contact*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
+ <p style="margin-bottom:0.6em;"></p>
 
+<strong>[September 15, 2025]</strong>  Haegu Lee, <strong>Yitaek Kim</strong>, Casper Hewson Rask, and Christoffer Sloth, <em>Manipulation via Force Distribution at Contact</em>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
 </div>
 
 <div style="margin-top:0.6em;">
