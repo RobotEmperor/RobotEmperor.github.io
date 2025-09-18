@@ -14,7 +14,7 @@ author_profile: true
 
 <strong>[June  16, 2025]</strong> Haegu Lee, **Yitaek Kim**, Victor Melbye Staven, Christoffer, *Trajectory Optimization for In-Hand Manipulation with Tactile Force Control*,  * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Accepted*, 2025. <a href="https://arxiv.org/pdf/2503.08222">ArXiv</a>
 
-<strong>[June 15, 2025]</strong>  Wilbert Peter Empleo, **Yitaek Kim**, Hansoul Kim, Thiusius Rajeeth Savarimuthu, Iñigo Iturrate, *Safe Uncertainty-Aware Learning of Robotic Suturing*,  *IEEE Transactions on Medical Robotics and Bionics*, 2025. <a href="https://arxiv.org/pdf/2411.07833">ArXiv</a>
+<strong>[June 15, 2025]</strong>  Wilbert Peter Empleo, **Yitaek Kim**, Hansoul Kim, Thiusius Rajeeth Savarimuthu, Iñigo Iturrate, *Safe Uncertainty-Aware Learning of Robotic Suturing*,  *IEEE Transactions on Medical Robotics and Bionics*, 2025. <a href="https://arxiv.org/abs/2505.16596">ArXiv</a>
 
 
 
@@ -25,7 +25,7 @@ author_profile: true
 
 3. **Yitaek Kim**, Jeeseop Kim, Albert H Li, Aaron D Ames, and Christoffer Sloth, *Robust adaptive safe robotic grasping with tactile sensing*, *IEEE  European Control Conference (ECC)*, 2025 <a href="https://arxiv.org/pdf/2411.07833">ArXiv</a>
 
-4. **Yitaek Kim**, Iñigo Iturrate, Christoffer Sloth, and Hansoul Kim, *Safety-Ensured Robotic Control Framework for Cutting Task Automation in Endoscopic Submucosal Dissection*, *IEEE Access*, 2025.<a href="https://arxiv.org/abs/2503.08214">ArXiv</a> or <a href="https://ieeexplore.ieee.org/abstract/document/11030599">Xplore</a>
+4. **Yitaek Kim**, Iñigo Iturrate, Christoffer Sloth, and Hansoul Kim, *Safety-Ensured Robotic Control Framework for Cutting Task Automation in Endoscopic Submucosal Dissection*, *IEEE Access*, 2025. <a href="https://arxiv.org/abs/2503.08214">ArXiv</a> or <a href="https://ieeexplore.ieee.org/abstract/document/11030599">Xplore</a>
 
 5. Emil Lykke Diget, **Yitaek Kim**, and Christoffer Sloth, *Safety Critical Control of a System With Element‐Wise Estimation of Unknown Time‐Varying Parameters*, *International Journal of Robust and Nonlinear Control*, 2025. <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.70116">Link</a>
 
