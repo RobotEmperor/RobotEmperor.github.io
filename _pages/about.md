@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Velkommen til Yitaek's page!"
+title: "Velkommen til Yitaeks hjemmeside!"
 author_profile: true
 redirect_from: 
   - /about/
