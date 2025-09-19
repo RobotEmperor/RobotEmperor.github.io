@@ -33,7 +33,7 @@ author_profile: true
 ## 2024
 1. **Yitaek Kim**, Jeeseop Kim, Aaron D Ames, and Christoffer Sloth, *Robust safety-critical control for input-delayed system with delay estimation*, *IEEE European Control Conference (ECC)*, 2024. <a href="https://ieeexplore.ieee.org/document/10591073">Xplore</a>
 
-2. Rasmus Laurvig Haugaard, **Yitaek Kim**, and Thorbjørn Mosekjær Iversen, *Fixture calibration with guaranteed bounds from a few correspondence-free surface points*, * IEEE International Conference on Robotics and Automation (ICRA)*, 2024. <a href="https://arxiv.org/pdf/2402.18123">ArXiv</a> or <a href="https://ieeexplore.ieee.org/document/10610632">Xplore</a>
+2. Rasmus Laurvig Haugaard, **Yitaek Kim**, and Thorbjørn Mosekjær Iversen, *Fixture calibration with guaranteed bounds from a few correspondence-free surface points*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2024. <a href="https://arxiv.org/pdf/2402.18123">ArXiv</a> or <a href="https://ieeexplore.ieee.org/document/10610632">Xplore</a>
 
 3. **Yitaek Kim**, Iñigo Iturrate, Jeppe Langaa, and Christoffer Sloth, *Safe robust adaptive control under both parametric and nonparametric uncertainty*, *Advanced Robotics*, 2024.  <a href="https://www.tandfonline.com/doi/pdf/10.1080/01691864.2024.2315067">Link</a>
 
