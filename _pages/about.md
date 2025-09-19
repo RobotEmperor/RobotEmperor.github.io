@@ -18,7 +18,7 @@ Currently, my research topic revolves around safety-critical systems and in-hand
 News
 ======
 
-<div style="border: 2px solid #b8cc00ff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0; border-radius:6px;">
+<div style="border: 2px solid #b8cc00ff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0 0.5em 0; border-radius:6px;">
 
   <div style="margin-top:0.6em;">
     Two papers are submitted to ICRA 2026.
