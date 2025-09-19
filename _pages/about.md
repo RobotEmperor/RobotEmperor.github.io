@@ -39,7 +39,7 @@ Currently, my research topic revolves around safety-critical systems and in-hand
   </figcaption>
 </div> -->
 
-<div style="display: grid; grid-template-columns: repeat(3, 400px); gap: 2em; justify-content: left; margin-top: 1em;">
+<div style="display: grid; grid-template-columns: repeat(3, 400px); gap: 2em; justify-content: start; margin-top: 1em;">
   <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
     <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
   </video>
