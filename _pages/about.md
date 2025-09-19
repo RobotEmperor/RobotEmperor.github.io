@@ -36,6 +36,8 @@ Currently, my research topic revolves around safety-critical systems and in-hand
   </figcaption>
 </div> -->
 
+Research Works
+======
 
 <div style="display: grid; grid-template-columns: repeat(3, 400px); gap: 2em; margin-top: 1em; width: max-content;">
   <figure style="margin:0; display:flex; flex-direction:column; align-items:center; text-align:center;">
@@ -61,9 +63,11 @@ Currently, my research topic revolves around safety-critical systems and in-hand
       <source src="/assets/videos/iros2024_quality_garauntees.mp4" type="video/mp4">
     </video>
     <figcaption style="margin-top:0.4em; font-size:0.9em; color:#555;">
-      Qaulity Garrantees for Robotic Polishing (Based on CBF)
+      Qaulity Garrantees for Robotic Polishing  <br> (Based on CBF)
     </figcaption>
   </figure>
+</div>
+
 News
 ======
 
@@ -75,11 +79,11 @@ News
 
   <p style="margin-bottom:0.6em;"></p>
 
-<strong>[September 15, 2025]</strong>  Frederik Hagelskjær, <strong>Yitaek Kim</strong>, Casper Hewson Rask, Haegu Lee, and Christoffer Sloth, <em>FT-Pose: In-Hand Object Pose Distribution Estimation with Finger Tip Tactile Sensing</em>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
+<strong>[September 15, 2025]</strong>  Frederik Hagelskjær, <strong>Yitaek Kim</strong>, Casper Hewson Rask, Haegu Lee, and Christoffer Sloth, <strong><em>FT-Pose: In-Hand Object Pose Distribution Estimation with Finger Tip Tactile Sensing</em></strong>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
 
  <p style="margin-bottom:0.6em;"></p>
 
-<strong>[September 15, 2025]</strong>  Haegu Lee, <strong>Yitaek Kim</strong>, Casper Hewson Rask, and Christoffer Sloth, <em>Manipulation via Force Distribution at Contact</em>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
+<strong>[September 15, 2025]</strong>  Haegu Lee, <strong>Yitaek Kim</strong>, Casper Hewson Rask, and Christoffer Sloth, <strong><em>Manipulation via Force Distribution at Contact</em></strong>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
 </div>
 
 <div style="margin-top:0.6em;">
