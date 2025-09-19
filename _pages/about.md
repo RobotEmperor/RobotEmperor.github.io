@@ -14,6 +14,7 @@ I received a Ph.D. in robotics from SDU Robotics in 2024. During the PhD journey
 Currently, my research topic revolves around safety-critical systems and in-hand manipulation with a multi-finger robotic hand (Shadow Robot).
 
 
+
 News
 ======
 
@@ -30,10 +31,10 @@ News
  <p style="margin-bottom:0.6em;"></p>
 
 <strong>[September 15, 2025]</strong>  Haegu Lee, <strong>Yitaek Kim</strong>, Casper Hewson Rask, and Christoffer Sloth, <strong><em>Manipulation via Force Distribution at Contact</em></strong>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
+
+<p style="margin-bottom:0.6em;"></p>
+
 </div>
-
-<div style="margin-top:0.6em;">
-
 
 
 Research Works
@@ -67,6 +68,7 @@ Research Works
     </figcaption>
   </figure>
 </div>
+
 
 <!-- <div style="border: 2px solid #fdfdfdff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0; border-radius:6px;">
 
