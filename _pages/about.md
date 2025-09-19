@@ -39,16 +39,16 @@ Currently, my research topic revolves around safety-critical systems and in-hand
   </figcaption>
 </div> -->
 
-<div style="display: flex; justify-content: center; gap: 2em; margin-top: 1em;">
-  <video autoplay muted loop playsinline controls style="width:200px; border-radius:8px;">
+<div style="display: grid; grid-template-columns: repeat(3, 200px); gap: 2em; justify-content: center; margin-top: 1em;">
+  <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
     <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
   </video>
 
-  <video autoplay muted loop playsinline controls style="width:200px; border-radius:8px;">
+  <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
     <source src="/assets/videos/safety_grasping.mp4" type="video/mp4">
   </video>
 
-  <video autoplay muted loop playsinline controls style="width:200px; border-radius:8px;">
+  <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
     <source src="/assets/videos/iros2024_quality_garauntees.mp4" type="video/mp4">
   </video>
 </div>
