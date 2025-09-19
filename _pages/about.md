@@ -13,11 +13,22 @@ I received a Ph.D. in robotics from SDU Robotics in 2024. During the PhD journey
 
 Currently, my research topic revolves around safety-critical systems and in-hand manipulation with a multi-finger robotic hand (Shadow Robot).
 
-<video autoplay muted loop playsinline style="max-width:100%; border-radius:8px;">
-  <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; margin-top: 1em;">
+  <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
+    <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
+  <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
+    <source src="/assets/videos/safety_grasping.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
+    <source src="/assets/videos/iros2024_quality_garauntees.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 News
 ======
