@@ -23,7 +23,7 @@ Research Works
       <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
     </video>
     <figcaption style="margin-top:0.4em; font-size:1.0em; color:#555; font-family: inherit;">
-      RL-based Hand Manipulation
+      RL-based Hand Manipulation, <br> Dexterous Humanoid Manipulation Workshop, Humanoid 2025
     </figcaption>
   </figure>
 
@@ -32,7 +32,7 @@ Research Works
       <source src="/assets/videos/safety_grasping.mp4" type="video/mp4">
     </video>
     <figcaption style="margin-top:0.4em; font-size:1.0em; color:#555; font-family: inherit;">
-      Safe Grasping (Based on CBF)
+      Safe Grasping (Based on CBF), <br> ECC2025, <a href="https://arxiv.org/pdf/2411.07833">ArXiv</a>
     </figcaption>
   </figure>
 
@@ -41,7 +41,7 @@ Research Works
       <source src="/assets/videos/iros2024_quality_garauntees.mp4" type="video/mp4">
     </video>
     <figcaption style="margin-top:0.4em; font-size:1.0em; color:#555; font-family: inherit;">
-      Qaulity Garrantees for Robotic Polishing  <br> (Based on CBF)
+      Qaulity Garrantees for Robotic Polishing  <br> (Based on CBF), ECC2025, <a href="https://arxiv.org/pdf/2506.14249">ArXiv</a>
     </figcaption>
   </figure>
 </div>
