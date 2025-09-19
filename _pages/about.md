@@ -32,7 +32,7 @@ Research Works
       <source src="/assets/videos/safety_grasping.mp4" type="video/mp4">
     </video>
     <figcaption style="margin-top:0.4em; font-size:1.0em; color:#555; font-family: inherit;">
-      Safe Grasping (Based on CBF), <br> ECC2025, <a href="https://arxiv.org/pdf/2411.07833"style="color:blue; text-decoration:underline;">ArXiv</a>
+      Safe Grasping (Based on CBF), <br> ECC2025, <a href="https://arxiv.org/pdf/2411.07833" style="color:blue; text-decoration:underline;">ArXiv</a>
     </figcaption>
   </figure>
 
