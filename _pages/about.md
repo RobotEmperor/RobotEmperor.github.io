@@ -19,10 +19,10 @@ Research Works
 
 <div style="display: grid; grid-template-columns: repeat(3, 400px); gap: 2em; margin-top: 1em; width: max-content;">
   <figure style="margin:0; display:flex; flex-direction:column; align-items:center; text-align:center;">
-    <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px; font-family: inherit;">
+    <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
       <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
     </video>
-    <figcaption style="margin-top:0.4em; font-size:1.0em; color:#555;">
+    <figcaption style="margin-top:0.4em; font-size:1.0em; color:#555; font-family: inherit;">
       RL-based Hand Manipulation
     </figcaption>
   </figure>
