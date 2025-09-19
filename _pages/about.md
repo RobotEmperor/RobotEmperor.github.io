@@ -17,7 +17,7 @@ Currently, my research topic revolves around safety-critical systems and in-hand
 Research Works
 ======
 
-<div style="display: grid; grid-template-columns: repeat(3, 400px); gap: 2em; margin-top: 1em; width: max-content;">
+<div style="display: grid; grid-template-columns: repeat(2, 400px); gap: 2em; margin-top: 1em; width: max-content;">
   <figure style="margin:0; display:flex; flex-direction:column; align-items:center; text-align:center;">
     <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
       <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
@@ -32,7 +32,7 @@ Research Works
       <source src="/assets/videos/safety_grasping.mp4" type="video/mp4">
     </video>
     <figcaption style="margin-top:0.4em; font-size:1.0em; color:#555; font-family: inherit;">
-      Safe Grasping (Based on CBF), <br> ECC2025, <a href="https://arxiv.org/pdf/2411.07833">ArXiv</a>
+      Safe Grasping (Based on CBF), <br> ECC2025, <a href="https://arxiv.org/pdf/2411.07833"style="color:blue; text-decoration:underline;">ArXiv</a>
     </figcaption>
   </figure>
 
@@ -41,7 +41,7 @@ Research Works
       <source src="/assets/videos/iros2024_quality_garauntees.mp4" type="video/mp4">
     </video>
     <figcaption style="margin-top:0.4em; font-size:1.0em; color:#555; font-family: inherit;">
-      Qaulity Garrantees for Robotic Polishing  <br> (Based on CBF), ECC2025, <a href="https://arxiv.org/pdf/2506.14249">ArXiv</a>
+      Qaulity Garrantees for Robotic Polishing  <br> (Based on CBF), ECC2025,   <a href="https://arxiv.org/pdf/2506.14249" style="color:blue; text-decoration:underline;">ArXiv</a>
     </figcaption>
   </figure>
 </div>
