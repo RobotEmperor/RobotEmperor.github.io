@@ -14,6 +14,28 @@ I received a Ph.D. in robotics from SDU Robotics in 2024. During the PhD journey
 Currently, my research topic revolves around safety-critical systems and in-hand manipulation with a multi-finger robotic hand (Shadow Robot).
 
 
+News
+======
+
+<div style="border: 2px solid #b8cc00ff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0; border-radius:6px;">
+
+  <div style="margin-top:0.6em;">
+    Two papers are submitted to ICRA 2026.
+  </div>
+
+  <p style="margin-bottom:0.6em;"></p>
+
+<strong>[September 15, 2025]</strong>  Frederik Hagelskjær, <strong>Yitaek Kim</strong>, Casper Hewson Rask, Haegu Lee, and Christoffer Sloth, <strong><em>FT-Pose: In-Hand Object Pose Distribution Estimation with Finger Tip Tactile Sensing</em></strong>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
+
+ <p style="margin-bottom:0.6em;"></p>
+
+<strong>[September 15, 2025]</strong>  Haegu Lee, <strong>Yitaek Kim</strong>, Casper Hewson Rask, and Christoffer Sloth, <strong><em>Manipulation via Force Distribution at Contact</em></strong>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
+</div>
+
+<div style="margin-top:0.6em;">
+
+
+
 Research Works
 ======
 
@@ -45,27 +67,6 @@ Research Works
     </figcaption>
   </figure>
 </div>
-
-News
-======
-
-<div style="border: 2px solid #b8cc00ff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0; border-radius:6px;">
-
-  <div style="margin-top:0.6em;">
-    Two papers are submitted to ICRA 2026.
-  </div>
-
-  <p style="margin-bottom:0.6em;"></p>
-
-<strong>[September 15, 2025]</strong>  Frederik Hagelskjær, <strong>Yitaek Kim</strong>, Casper Hewson Rask, Haegu Lee, and Christoffer Sloth, <strong><em>FT-Pose: In-Hand Object Pose Distribution Estimation with Finger Tip Tactile Sensing</em></strong>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
-
- <p style="margin-bottom:0.6em;"></p>
-
-<strong>[September 15, 2025]</strong>  Haegu Lee, <strong>Yitaek Kim</strong>, Casper Hewson Rask, and Christoffer Sloth, <strong><em>Manipulation via Force Distribution at Contact</em></strong>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
-</div>
-
-<div style="margin-top:0.6em;">
-
 
 <!-- <div style="border: 2px solid #fdfdfdff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0; border-radius:6px;">
 
