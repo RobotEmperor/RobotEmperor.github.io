@@ -39,7 +39,7 @@ Currently, my research topic revolves around safety-critical systems and in-hand
   </figcaption>
 </div> -->
 
-<div style="display: grid; grid-template-columns: repeat(3, 200px); gap: 2em; justify-content: center; margin-top: 1em;">
+<div style="display: grid; grid-template-columns: repeat(3, 600px); gap: 2em; justify-content: center; margin-top: 1em;">
   <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
     <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
   </video>
@@ -61,6 +61,8 @@ News
   <div style="margin-top:0.6em;">
     Two papers are submitted to ICRA 2026.
   </div>
+
+  <p style="margin-bottom:0.6em;"></p>
 
 <strong>[September 15, 2025]</strong>  Frederik Hagelskjær, <strong>Yitaek Kim</strong>, Casper Hewson Rask, Haegu Lee, and Christoffer Sloth, <em>FT-Pose: In-Hand Object Pose Distribution Estimation with Finger Tip Tactile Sensing</em>, IEEE International Conference on Robotics and Automation (ICRA), 2026.
 
