@@ -43,14 +43,23 @@ Currently, my research topic revolves around safety-critical systems and in-hand
   <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
     <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
   </video>
+  <figcaption style="margin-top:0.1em; font-size:0.9em; color:#555;">
+    RL-based Hand Manipulation
+  </figcaption>
 
   <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
     <source src="/assets/videos/safety_grasping.mp4" type="video/mp4">
   </video>
+  <figcaption style="margin-top:0.1em; font-size:0.9em; color:#555;">
+    Safe Grasping (Based on CBF)
+  </figcaption>
 
   <video autoplay muted loop playsinline controls style="width:100%; border-radius:8px;">
     <source src="/assets/videos/iros2024_quality_garauntees.mp4" type="video/mp4">
   </video>
+  <figcaption style="margin-top:0.1em; font-size:0.9em; color:#555;">
+    Qaulity Garrantees for Robotic Polishing (Based on CBF)
+  </figcaption>
 </div>
 
 News
