@@ -8,6 +8,8 @@ author_profile: true
 
 ## Preprints/Submitted
 
+<strong>[September 23, 2025]</strong>  **Yitaek Kim**, Casper Hewson Rask, and Christoffer Sloth, *Tac2Motion: Contact-Aware Reinforcement Learning with Tactile Feedback for Robotic Hand Manipulation*, *Dexterous Humanoid Manipulation Workshop*, Humaniod, 2025. <a href="https://arxiv.org/pdf/2509.17812v1">ArXiv</a>
+
 <strong>[September 15, 2025]</strong>  Frederik Hagelskjær, **Yitaek Kim**, Casper Hewson Rask, Haegu Lee, and Christoffer Sloth, *FT-Pose: In-Hand Object Pose Distribution Estimation with Finger Tip Tactile Sensing*, *IEEE International Conference on Robotics and Automation (ICRA)*, *Under review*, 2026.
 
 <strong>[September 15, 2025]</strong>  Haegu Lee, **Yitaek Kim**, Casper Hewson Rask, and Christoffer Sloth, *Manipulation via Force Distribution at Contact*, *IEEE International Conference on Robotics and Automation (ICRA)*, *Under review*, 2026.

@@ -46,7 +46,7 @@ Research Works
       <source src="/assets/videos/opening_the_lid.mp4" type="video/mp4">
     </video>
     <figcaption style="margin-top:0.4em; font-size:1.0em; color:#555; font-family: inherit;">
-      RL-based Hand Manipulation, <br> Dexterous Humanoid Manipulation Workshop, Humanoid 2025
+      RL-based Hand Manipulation, <br> Dexterous Humanoid Manipulation Workshop, Humanoid 2025, <a href="https://arxiv.org/pdf/2509.17812v1" style="color:blue; text-decoration:underline;">ArXiv</a>
     </figcaption>
   </figure>
 
