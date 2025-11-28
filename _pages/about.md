@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently working as a postdoctoral researcher in the [Christtofer group](https://portal.findresearcher.sdu.dk/en/persons/chsl) at [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics). 
 
-I received a Ph.D. in robotics from SDU Robotics in 2024. During the PhD journey, I worked with Universal Robots (UR) to solve the challenges of robotic polishing. In addition, I was a visiting student researcher at the [Ames' group, AMBER LAB](http://www.bipedalrobotics.com/), California Institute of Technology (Caltech) in 2023 and worked on safety guaratees in input-delayed systems. 
+I received a Ph.D. in robotics from SDU Robotics in 2024. During the PhD journey, I worked with Universal Robots (UR) to solve the challenges of robotic polishing. In addition, I was a visiting student researcher at the [Ames' group, AMBER LAB](http://www.bipedalrobotics.com/), California Institute of Technology (Caltech) in 2023 and worked on safety guarantees in input-delayed systems. 
 
 Currently, my research topic revolves around safety-critical systems and in-hand manipulation with a multi-finger robotic hand (Shadow Robot).
 
@@ -17,6 +17,21 @@ Currently, my research topic revolves around safety-critical systems and in-hand
 
 News
 ======
+
+<div style="border: 2px solid #00cc25ff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0 2em 0; border-radius:6px;">
+
+  <div style="margin-top:0.6em;">
+    A journal paper is accepted to IEEE Transactions on Medical Robotics and Bionics.
+  </div>
+
+  <p style="margin-bottom:0.6em;"></p>
+
+<strong>[November 25, 2025]</strong>  Wilbert Peter Empleo, **Yitaek Kim**, Hansoul Kim, Thiusius Rajeeth Savarimuthu, Iñigo Iturrate, *Safe Uncertainty-Aware Learning of Robotic Suturing*,  *IEEE Transactions on Medical Robotics and Bionics*, *Accepted*, 2025. <a href="https://arxiv.org/abs/2505.16596">ArXiv</a>
+
+ <p style="margin-bottom:0.6em;"></p>
+
+</div>
+
 
 <div style="border: 2px solid #b8cc00ff; background-color: #fffef5ff; padding:0.75em; margin:0.5em 0 2em 0; border-radius:6px;">
 
