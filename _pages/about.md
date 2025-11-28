@@ -26,7 +26,7 @@ News
 
   <p style="margin-bottom:0.6em;"></p>
 
-<strong>[November 25, 2025]</strong>  Wilbert Peter Empleo, **Yitaek Kim**, Hansoul Kim, Thiusius Rajeeth Savarimuthu, Iñigo Iturrate, *Safe Uncertainty-Aware Learning of Robotic Suturing*,  *IEEE Transactions on Medical Robotics and Bionics*, *Accepted*, 2025. <a href="https://arxiv.org/abs/2505.16596">ArXiv</a>
+<strong>[November 25, 2025]</strong>  Wilbert Peter Empleo,  <strong>Yitaek Kim</strong>, Hansoul Kim, Thiusius Rajeeth Savarimuthu, Iñigo Iturrate, <strong><em>Safe Uncertainty-Aware Learning of Robotic Suturing*,  *IEEE Transactions on Medical Robotics and Bionics</em></strong>, 2025. <a href="https://arxiv.org/abs/2505.16596">ArXiv</a>
 
  <p style="margin-bottom:0.6em;"></p>
 
